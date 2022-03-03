@@ -8,9 +8,13 @@ public class Addication {
 		{
 			System.out.println("Number is Even--->"+a);
 		}
-		else if(a%3==0)
+		 if(a%3==0)
 		{
 			System.out.println("Number is Dividible By 3--->"+a);
+		}
+		else
+		{
+			System.out.println("Number IS not divisible By 3--->"+a);
 		}
 		
 
