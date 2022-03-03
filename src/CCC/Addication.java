@@ -8,10 +8,11 @@ public class Addication {
 		{
 			System.out.println("Number is Even--->"+a);
 		}
-		else
+		else if(a%3==0)
 		{
-			System.out.println("Number is ODd--->"+a);
+			System.out.println("Number is Dividible By 3--->"+a);
 		}
+		
 
 	}
 
